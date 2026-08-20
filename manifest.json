@@ -1,0 +1,15 @@
+{
+  "name": "1224 Inventory",
+  "short_name": "1224",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f4f4f6",
+  "theme_color": "#f4f4f6",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/darrellsaidmarcos-bit/inventory-assets/refs/heads/main/1224-inventory-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
